@@ -87,6 +87,12 @@ Quand vous avez tout add, commit, pull puis push.
 
 Don't put shitty comment / Mettre un commentaire pas débile svp
 
+Start with:
+
+- [+] For new file
+- [*] For update
+- [-] For removing a file
+
 ### Update your local repository
 
 ```
