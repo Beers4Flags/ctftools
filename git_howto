@@ -86,4 +86,4 @@ Send the files to the repository / Envoyer les fichiers sur le github.
 
   :~/git/beers4flags/ctftools$ git push origin master
 
-
+You will be asked for your github login / password.
